@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elijah
-- 👀 I’m interested in Web3 Development.
-- 🌱 I’m currently practicing solidity, hardhat, react.js, and more.
-- 💞️ I’m looking to collaborate on blockchain projects.
+- 👀 I’m a Web3 Developer.
+- 🌱 My current stack is solidity, hardhat, and react.js.
+- 💞️ My goal is to build useful blockchain based projects.
 - 📫 How to reach me: elijahware31@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a DC sports Fan!
